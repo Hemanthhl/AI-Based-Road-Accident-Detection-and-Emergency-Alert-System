@@ -78,41 +78,49 @@ The project aims to reduce emergency response time, improve road safety, and sup
 AI-Based-Road-Accident-Detection-and-Emergency-Alert-System
 │
 ├── README.md
-├── requirements.txt
+├── Requirements.txt
 ├── app.py
-├── accident_detection.ipynb
 ├── accidents.db
-│
-├── data/
-│   ├── tracking_data.csv
-│   ├── tracking_with_speed.csv
-│   ├── speed_drop_analysis.csv
-│   ├── collision_detection_iou.csv
-│   ├── temporal_consistency.csv
-│   ├── video_accident_severity_v2.csv
-│   ├── camera_coords.json
-│   └── final_accident_detection.csv        
+├── Road Accident Detection
 │
 ├── dataset/
-│   └── README.md
+│   ├── README.md
+│   └── Accident Video167
 │
-├── images/
-│   ├── architecture.png
-│   ├── interface.png
-│   ├── tracking.png
-│   ├── severity.png
-│   ├── sms_alert.png
-│   ├── email_alert.png
-│   ├── google_map.png
-│   └── evidence_frames.png
+├── Images/
+│   ├── Architecture.jpg
+│   ├── Tracking.jpg
+│   ├── Severity.jpg
+│   ├── Accident_image.jpg
+│   │
+│   ├── Interface/
+│   │   ├── Interface1.jpg
+│   │   ├── Interface2.jpg
+│   │   ├── Interface3.jpg
+│   │   ├── Interface4.jpg
+│   │   ├── Interface5.jpg
+│   │   ├── Interface6.jpg
+│   │   └── Interface7.jpg
+│   │
+│   └── Alerts/
+│       ├── Hospital_sms_alert.jpg
+│       ├── Police_Station_sms_alert.jpg
+│       ├── Hospital_email_alert.jpg
+│       ├── Police_Station_email_alert.jpg
+│       ├── Controlroom_email_alert.jpg
+│       └── Call_Record_alert.aac
 │
-└── outputs/
-    ├── sample_output.mp4
-    ├── tracking_result.png
-    └── sample_evidence/
-        ├── frame1.jpg
-        ├── frame2.jpg
-        └── frame3.jpg
+└── Output/
+    ├── Dashboard/
+    │   ├── Dashboard1.jpg
+    │   └── Dashboard2.jpg
+    │
+    ├── Sample_Evidence/
+    │   ├── frame1_video167.jpg
+    │   ├── frame2_video167.jpg
+    │   └── frame3_video167.jpg
+    │
+    └── Severity.jpg
 ```
 
 ---
