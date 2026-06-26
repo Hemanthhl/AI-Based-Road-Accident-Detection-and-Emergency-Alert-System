@@ -98,14 +98,10 @@ AI-Based-Road-Accident-Detection-and-Emergency-Alert-System
 │   └── dataset_link.txt
 │
 ├── outputs/
-│   ├── tracking_results/
-│   ├── accident_detection/
-│   ├── evidence_frames/
-│   └── severity_results/
-│
-└── documentation/
-    ├── Final_Report.pdf
-    └── Project_Presentation.pdf
+    ├── tracking_results/
+    ├── accident_detection/
+    ├── evidence_frames/
+    └── severity_results/
 ```
 
 ---
