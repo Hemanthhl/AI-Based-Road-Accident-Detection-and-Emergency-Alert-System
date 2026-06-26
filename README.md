@@ -90,7 +90,8 @@ AI-Based-Road-Accident-Detection-and-Emergency-Alert-System
 │   ├── collision_detection_iou.csv
 │   ├── temporal_consistency.csv
 │   ├── video_accident_severity_v2.csv
-│   └── camera_coords.json
+│   ├── camera_coords.json
+│   └── final_accident_detection.csv        
 │
 ├── dataset/
 │   └── README.md
