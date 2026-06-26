@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+numpy
+pandas
+streamlit
+twilio
+sqlite3
+folium
+requests
+geopy
+openrouteservice(OSMR)
+matplotlib
+scikit-learn
