@@ -77,11 +77,23 @@ The project aims to reduce emergency response time, improve road safety, and sup
 ```text
 AI-Based-Road-Accident-Detection-and-Emergency-Alert-System
 │
+├── README.md
+├── requirements.txt
 ├── app.py
 ├── accident_detection.ipynb
-├── requirements.txt
-├── README.md
 ├── accidents.db
+│
+├── data/
+│   ├── tracking_data.csv
+│   ├── tracking_with_speed.csv
+│   ├── speed_drop_analysis.csv
+│   ├── collision_detection_iou.csv
+│   ├── temporal_consistency.csv
+│   ├── video_accident_severity_v2.csv
+│   └── camera_coords.json
+│
+├── dataset/
+│   └── README.md
 │
 ├── images/
 │   ├── architecture.png
@@ -93,15 +105,13 @@ AI-Based-Road-Accident-Detection-and-Emergency-Alert-System
 │   ├── google_map.png
 │   └── evidence_frames.png
 │
-├── dataset/
-│   ├── dataset_info.md
-│   └── dataset_link.txt
-│
-├── outputs/
-    ├── tracking_results/
-    ├── accident_detection/
-    ├── evidence_frames/
-    └── severity_results/
+└── outputs/
+    ├── sample_output.mp4
+    ├── tracking_result.png
+    └── sample_evidence/
+        ├── frame1.jpg
+        ├── frame2.jpg
+        └── frame3.jpg
 ```
 
 ---
